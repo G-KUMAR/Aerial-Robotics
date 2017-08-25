@@ -1,0 +1,1 @@
+Camera-IMU Synchronization Hack using BlueFox MPU6050 and arduino- http://grauonline.de/wordpress/?page_id=1951
