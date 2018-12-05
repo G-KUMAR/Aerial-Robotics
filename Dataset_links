@@ -1,9 +1,0 @@
-1. http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets : EuRoC Dataset - Stereo Visual and inertial data with vicon groundtruth.
-2. http://www.sfly.org/mav-datasets : Sfly dataset - pose and IMU data, image data from front and downward looking cameras with vicon groundtruth.
-3. https://www.sensefly.com/drones/example-datasets.html : Sense Fly dataset - Image data and trajectory with pointcloud in different outdoor scenarios.
-4.PennCOSYVIO- https://daniilidis-group.github.io/penncosyvio/
-5. TUM RGB_D dataset- http://vision.in.tum.de/data/datasets/rgbd-dataset : RGB-D data with accelerometer data GT: mocap
-6. LSD SLAM omnidirectional cam dataset:  http://vision.in.tum.de/data/datasets/omni-lsdslam : pinhole(rectified) and omnidirectional videos and images, rosbag files, caliberation files.
-7. Event based camera Dataset - http://rpg.ifi.uzh.ch/davis_data.html
-8. TUM dataset(RGBD, monocular, omnidirectional) - http://vision.in.tum.de/data/datasets
-9. The Zurich Urban Micro Aerial Vehicle Dataset(The 2 km dataset consists of time synchronized aerial high-resolution images, GPS and IMU sensor data, ground-level street view images, and ground truth data) - http://rpg.ifi.uzh.ch/zurichmavdataset.html 
