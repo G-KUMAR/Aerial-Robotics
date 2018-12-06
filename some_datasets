@@ -1,3 +1,19 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                           DATASET LIST LINKS:
+========================================================================================
+1. All SLAM Dataset: https://docs.google.com/spreadsheets/d/1mudM7LxXv09ywuQGDp3t_RlIjIdwzg_ZaMu78agLmH4/edit#gid=0
+
+2. RGBD datasets: http://www.michaelfirman.co.uk/RGBDdatasets/
+
+3. 
+
+
+
+
+
+
+######################### some random dataset links ##################################
+
 1. http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets : EuRoC Dataset - Stereo Visual and inertial data with vicon groundtruth.
 2. http://www.sfly.org/mav-datasets : Sfly dataset - pose and IMU data, image data from front and downward looking cameras with vicon groundtruth.
 3. https://www.sensefly.com/drones/example-datasets.html : Sense Fly dataset - Image data and trajectory with pointcloud in different outdoor scenarios.
@@ -7,3 +23,5 @@
 7. Event based camera Dataset - http://rpg.ifi.uzh.ch/davis_data.html
 8. TUM dataset(RGBD, monocular, omnidirectional) - http://vision.in.tum.de/data/datasets
 9. The Zurich Urban Micro Aerial Vehicle Dataset(The 2 km dataset consists of time synchronized aerial high-resolution images, GPS and IMU sensor data, ground-level street view images, and ground truth data) - http://rpg.ifi.uzh.ch/zurichmavdataset.html 
+
+
