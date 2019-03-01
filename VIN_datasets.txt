@@ -1,0 +1,10 @@
+####### PAPERS RELATED TO PAPERS  ##################
+1. ADVIO: An Authentic Dataset forVisual-Inertial Odometry -  http://openaccess.thecvf.com/content_ECCV_2018/papers/Santiago_Cortes_ADVIO_An_Authentic_ECCV_2018_paper.pdf
+
+
+
+
+
+
+-----Fill it up -----
+EUROC
